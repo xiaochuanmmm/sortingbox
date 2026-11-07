@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "sortingbox:block/sorting_workbench"
+    }
+  }
+}

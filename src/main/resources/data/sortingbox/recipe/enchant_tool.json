@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "sortingbox:label",
+    "minecraft:iron_pickaxe"
+  ],
+  "result": {
+    "id": "sortingbox:label",
+    "components": { "sortingbox:category": "tool" }
+  }
+}

@@ -1,0 +1,11 @@
+build/
+out/
+*.class
+.idea/
+*.iml
+.gradle/
+.DS_Store
+Thumbs.db
+*.log
+
+build-log*.txt

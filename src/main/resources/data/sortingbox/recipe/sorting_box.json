@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DCD",
+    "DDD"
+  ],
+  "key": {
+    "D": "minecraft:diamond",
+    "C": "minecraft:chest"
+  },
+  "result": {
+    "id": "sortingbox:sorting_box"
+  }
+}

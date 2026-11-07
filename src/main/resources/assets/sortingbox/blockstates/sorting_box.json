@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "sortingbox:block/sorting_box", "y": 180 },
+    "facing=east": { "model": "sortingbox:block/sorting_box", "y": 90 },
+    "facing=south": { "model": "sortingbox:block/sorting_box" },
+    "facing=west": { "model": "sortingbox:block/sorting_box", "y": 270 }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "sortingbox:label",
+    "minecraft:iron_ingot"
+  ],
+  "result": {
+    "id": "sortingbox:label",
+    "components": { "sortingbox:category": "ore" }
+  }
+}

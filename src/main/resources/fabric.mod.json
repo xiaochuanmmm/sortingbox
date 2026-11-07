@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "sortingbox",
+  "version": "${version}",
+  "name": "Sorting Box",
+  "description": "分类箱（Sorting Box）：自动把物品分类并分发到附近被标记的箱子。附带熔炉式分类标签工作台、手持标签右键标记、F7 连接可视化与 Jade 悬停信息，内置 14 个可编辑分类。",
+  "icon": "assets/sortingbox/icon.png",
+  "authors": [
+    "摆"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.sortingbox.SortingBoxMod"
+    ],
+    "client": [
+      "com.example.sortingbox.client.SortingBoxClient"
+    ],
+    "jade": [
+      "com.example.sortingbox.compat.SortingBoxJadePlugin"
+    ],
+    "modmenu": [
+      "com.example.sortingbox.compat.SortingBoxModMenu"
+    ]
+  },
+  "mixins": [
+    "sortingbox.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric-api": ">=0.160.0",
+    "minecraft": "26.3"
+  },
+  "suggests": {
+    "jade": "*"
+  }
+}
