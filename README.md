@@ -53,4 +53,4 @@ MIT License，作者：摆。
 ## 致谢
 
 - 豹猫指示牌集成基于 [OcelotSignMod](https://github.com/Creeper-Cola123/ocelotsignmod-minecraft) 与 [迷上城建](https://github.com/SolidBlock-cn/mishanguc)（均为 LGPL-3.0），仅作可选集成，不包含其代码。
-注：（https://pan.quark.cn/s/1f6ae5ae2343）此为作者自行ai升级的26.3版本，可参考使用。
+注：此为作者自行ai升级的26.3版本，可参考使用。https://pan.quark.cn/s/1f6ae5ae2343
